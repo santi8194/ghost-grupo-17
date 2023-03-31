@@ -40,7 +40,7 @@ Para acceder a la interfaz de administrador de *Ghost* es necesario seguir los s
 
 En las siguiente tabla se enlista los lenguajes de programación utilizados y en que proporción en la aplicación *Ghost* (Los valores fueron obtenidos del [repositorio](https://github.com/TryGhost/Ghost/tree/3.41.1) de la versión 3.41.1).
 
-<center>
+<div style="text-align: center;">
 
 |Lenguaje de Programación|Porcentaje de aplicación|
 |------------------------|------------------------|
@@ -48,11 +48,11 @@ En las siguiente tabla se enlista los lenguajes de programación utilizados y en
 |*Handlebars js*|10.4%|
 |*CSS*|8.3%|
 |*HTML*|1.2%|
-</center>
+</div>
 
 En cuanto a las versiones utilizadas para la creación de la imagen de *Docker*, en la siguiente imagen se muestran las que fueron utilizadas para la construcción de la imagen [*ghost:3.41.1-alpine*]( https://hub.docker.com/layers/library/ghost/3.41.1-alpine/images/sha256-5303edd44015485fcabe5cca511ac80e151f2f50e0b39abbfa07c148b8873795?context=explore).
 
-<center>
+<div style="text-align: center;">
 
 |Objeto|Versión|
 |-----|--------|
@@ -60,7 +60,7 @@ En cuanto a las versiones utilizadas para la creación de la imagen de *Docker*,
 |*Yarn*| 1.22.5|
 |*Ghost-CLI*| 1.15.3|
 |*Ghost*| 3.41.1|
-</center>
+</div>
 
 ## Arquitectura
 A continuación se presentan los aspectos encontrados después de hacer la revisión del código fuente de la aplicación.
