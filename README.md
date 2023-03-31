@@ -4,4 +4,4 @@ Este repositorio tiene como proposito almacenar nuestra version de ghost y lleva
 
 ## Integrantes del grupo
 - Santiago Alvarez Soto
-- Camilo Ramirez Restrepo
+- Camilo Ramírez Restrepo
