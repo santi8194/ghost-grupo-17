@@ -89,34 +89,31 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
 1. **Tutorial explicativo de botones y flujo de trabajo**: 
    Al iniciar la aplicación se le muestra al usuario una descripción corta de los botones uno por uno al darle clic en siguiente. 
 
-2. **Visualizar una previsualización del sitio web generado**:
-   Permite hacer una previsualización del sitio generado durante la edición.
-
-3. **Editor de contenido para *Posts* y para *Pages***:
+2. **Editor de contenido para *Posts* y para *Pages***:
     - Editar el contenido del Post usando *Markdown*.
     - Opciones para insertar imagen, *markdown*, *html*, una galería de imágenes, un divisor, marcador, contenido visible únicamente por *email*. 
     - Opciones para embedir contenido de las fuentes: *youtube, twitter, unsplash, vimeo, codepen, spotify, soundcloud* o una *url*. 
 
-4. **Administrar Posts CRUD:**
+3. **Administrar Posts CRUD:**
    - Utilizar el editor de contenido.
    - Editar la información SEO para el Post.
    - Agendar una fecha para la publicación de un Post
    - Guardar como borrador.
    - Inyectar código a la cabecera y el *footer* del Post.
 
-5. **Administrar Pages CRUD:**
+4. **Administrar Pages CRUD:**
    - Utilizar el editor de contenido.
    - Editar la información SEO para el Post.
    - Agendar una fecha para la publicación de un Page. 
    - Guardar como borrador. 
    - Inyectar código a la cabecera y el *footer* del Page. 
 
-6. **Administrar Tags CRUD:**
+5. **Administrar Tags CRUD:**
    - Formulario para información general del Tag.
    - Editar la información SEO para el Tag. 
    - Inyectar código a la cabecera y el **footer** del Tag. 
 
-7. **Administrar usuarios Staff:**
+6. **Administrar usuarios Staff:**
    - Invitar usuario usando correo electrónico y asignando un *Role (Administrador, Editor, Author, Contributor)*. 
    - Editar información general del usuario. 
    - Subir una foto de perfil y de portada. 
@@ -124,7 +121,7 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
    - Mostrar *token* de acceso. 
    - Regenerar *token* de acceso. 
 
-8. **Administrar configuración general de la aplicación:**
+7. **Administrar configuración general de la aplicación:**
    - Editar el titulo y descripción del sitio. 
    - Configurar la zona horaria que se usará en todas las publicaciones. 
    - Configurar el lenguaje que se usará en toda la plataforma. 
@@ -135,7 +132,7 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
    - Asociar redes sociales. 
    - Opción para hacer el sitio privado requiriendo una contraseña para acceder o que sea público.
 
-9. **Administrar configuración de diseño:**
+8. **Administrar configuración de diseño:**
    - Crear una cantidad N de enlaces para la navegación. 
    - Crear una cantidad N de enlaces para la navegación secundaria. 
    - Mostrar 4 plantillas que el usuario podrá instalar. 
@@ -144,16 +141,13 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
    - Mostrar plantilla instalada con opción para descargar el código. 
    - Botón para subir y utilizar una plantilla. 
 
-10. **Inyectar código:**
-     Permite inyectar código a la cabecera y pie de página de todas las páginas del sitio sin tener que modificar cada una de ellas. 
-
-11. **Administrar las integraciones:** 
+9. **Administrar las integraciones:** 
     - Mostrar las 6 integraciones principales que se pueden configurar. 
     - Mostrar un botón con un enlace a mercado de integraciones para **ghost**. 
     - Mostrar la lista de integraciones que están preinstaladas. 
     - Configurar cada integración.
 
-12. **Crear una integración customizada:** 
+10. **Crear una integración customizada:** 
     - Editar nombre y descripción. 
     - Dar claves de API de contenido, admin y la *url* del API. 
     - Configurar *webhooks* con nombre, evento, y *url *destino. 
