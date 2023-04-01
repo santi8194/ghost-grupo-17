@@ -87,6 +87,8 @@ Diagrama de clases UML con las entidades, atributos, tipos de datos y relaciones
 ### Modelo de *GUI*
 ***Acá va el modelo gui ....***
 
+## 
+
 ## Funcionalidades
 Se enlistan acá algunas de las funcionalidades de la aplicación encontradas después de hacer una exploración:
 
@@ -155,6 +157,10 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
     - Editar nombre y descripción. 
     - Dar claves de API de contenido, admin y la *url* del API. 
     - Configurar *webhooks* con nombre, evento, y *url *destino. 
+
+## Inventario de puebas exploratorias
+Nota: para acceder a los videos, es necesario in ingresar con una cuenta uniandes ya que están alojados en OneDrive de uniandes.
+[Inventario de PE](https://uniandes-my.sharepoint.com/:x:/g/personal/s_alvarez112_uniandes_edu_co/ESe60ptA4FhImTDRL7p82GkB3ehJROvQQVdAPscG9W4MSg?e=mcU1jD)
 
 ## Reporte de Incidencias 
 Las incidencias encontradas en las pruebas exploratorias están disponibles en el siguiente [enlace]( https://github.com/santi8194/ghost-grupo-22/issues), el catalogo de pruebas se entrega adjunto a este documento.
