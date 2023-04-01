@@ -67,11 +67,15 @@ A continuación se presentan los aspectos encontrados después de hacer la revis
 
 ### Arquitectura de la Aplicación
 
-***Acá hay que detallar bien y organizar mejor***
-- Basada en servicios.
-- Core es un RESTFUL JSON API
-- Bookshelf ORM
-- Custom Storage Adapters
+Después de hacer una exploración al código  fuente de la aplicación, se pudo observar que dicha aplicación sigue un enfoque de arquitectura MVC (Modelo-Vista-Controlador) que separa las responsabilidades en 3 componentes principales: El modelo se encarga de manejar la interacción con la base de datos y define la estructura de los datos; la vista se encarga de la presentación del contenido y de mostrar la interfaz de usuario; y el controlador hace labores de intermediario entre el modelo y la vista, además, maneja la lógica de negocio y procesa las solicitudes del usuario.
+
+La siguiente imagen (obtenida de la [documentación oficial](https://ghost.org/docs/architecture/) de *Ghost*) muestra de manera mas gráfica lo expuesto sobre el modelo MVC.
+
+<p style="text-align:center">
+  <img src="../ghost-grupo-22/imagenes/arq_ghost.PNG"> </img>
+</p>
+
+*Ghost* también utiliza una arquitectura orientada a servicios que permite separar las diferentes funcionalidades en módulos independientes.
 
 ### Modelo de Dominio 
 Diagrama de clases UML con las entidades, atributos, tipos de datos y relaciones principales encontradas durante la exploración del código fuente.
