@@ -1,4 +1,4 @@
-# Reporte de Pruebas Exploratorias para Aplicación *Ghost*
+# Reporte Entrega Semana 1 - Curso Pruebas Automatizadas
 
 **Fecha:** 01/04/2023
 
@@ -151,3 +151,4 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
     - Editar nombre y descripción. 
     - Dar claves de API de contenido, admin y la *url* del API. 
     - Configurar *webhooks* con nombre, evento, y *url *destino. 
+
