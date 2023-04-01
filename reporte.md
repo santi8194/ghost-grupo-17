@@ -50,7 +50,7 @@ En las siguiente tabla se enlista los lenguajes de programación utilizados y en
 |*HTML*|1.2%|
 </div>
 
-En cuanto a las versiones utilizadas para la creación de la imagen de *Docker*, en la siguiente imagen se muestran las que fueron utilizadas para la construcción de la imagen [*ghost:3.41.1-alpine*]( https://hub.docker.com/layers/library/ghost/3.41.1-alpine/images/sha256-5303edd44015485fcabe5cca511ac80e151f2f50e0b39abbfa07c148b8873795?context=explore).
+En cuanto a las versiones utilizadas para la creación de la imagen de *Docker*, en la siguiente tabla se muestran las que fueron utilizadas para la construcción de la imagen [*ghost:3.41.1-alpine*]( https://hub.docker.com/layers/library/ghost/3.41.1-alpine/images/sha256-5303edd44015485fcabe5cca511ac80e151f2f50e0b39abbfa07c148b8873795?context=explore).
 
 <div style="text-align: center;">
 
@@ -157,4 +157,4 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
     - Configurar *webhooks* con nombre, evento, y *url *destino. 
 
 ## Reporte de Incidencias 
-Las incidencias encontradas en las pruebas exploratorias están disponibles en el siguiente [enlace]( https://github.com/santi8194/ghost-grupo-22/issues), el catalogo de pruebas a este documento.
+Las incidencias encontradas en las pruebas exploratorias están disponibles en el siguiente [enlace]( https://github.com/santi8194/ghost-grupo-22/issues), el catalogo de pruebas se entrega adjunto a este documento.
