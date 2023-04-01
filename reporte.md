@@ -156,3 +156,5 @@ Se enlistan acá algunas de las funcionalidades de la aplicación encontradas de
     - Dar claves de API de contenido, admin y la *url* del API. 
     - Configurar *webhooks* con nombre, evento, y *url *destino. 
 
+## Reporte de Incidencias 
+Las incidencias encontradas en las pruebas exploratorias están disponibles en el siguiente [enlace]( https://github.com/santi8194/ghost-grupo-22/issues), el catalogo de pruebas a este documento.
