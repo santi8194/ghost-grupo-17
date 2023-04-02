@@ -85,7 +85,11 @@ Diagrama de clases UML con las entidades, atributos, tipos de datos y relaciones
 </p>
 
 ### Modelo de *GUI*
-***Acá va el modelo gui ....***
+Diagrama de GUI con las pantallas como nodos con titulo y las aristas como eventos
+
+<p style="text-align:center">
+  <img src="../ghost-grupo-22/imagenes/GUI.jpg"> </img>
+</p>
 
 ## 
 
